@@ -2,7 +2,7 @@
 
 Unleash your inner troll or superhero in **Fling Things and People** with this game-breaking script! Packed with powerful tools like **Super Throw**, **Silent Aim**, and **Infinite Jump**, this script takes your gameplay to a whole new level. It's free, keyless, and tailored for maximum fun with zero hassle. Say goodbye to limits and hello to domination!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Fling-Things-and-People/blob/main/fling%20things%20and%20people.png)
 
 ---
 
